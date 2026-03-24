@@ -11,12 +11,11 @@ He dedicado tiempo a desarrollar y refinar soluciones en estas áreas:
 ### 💻 Stack Tecnológico
 Herramientas que utilizo habitualmente en mis proyectos:
 
-![Python](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![Docker](https://img.shields.io)
-![Git](https://img.shields.io)
-![Linux](https://img.shields.io)
 
-### 📈 Actividad
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com)
+| Tecnología | Herramientas |
+| :--- | :--- |
+| **Lenguajes** | Python 🐍, JavaScript ⚡, Bash 🐚 |
+| **Infraestructura** | Docker 🐳, Linux 🐧, Git 🛠️ |
+| **Entorno** | VS Code 💻, GitHub Actions ⚙️ |
 
+---
